@@ -23,6 +23,7 @@ This repository is for experimenting with Codex local workflows, GitHub integrat
 - Prefer simple solutions over new dependencies
 
 ## MCP Usage
-- Use the `jbbbrainblast` MCP server for internal Azure DevOps, work-item, ticketing, process, and knowledge-base questions.
-- Prefer `jbbbrainbvlast` over web search for company-internal information.
-- If `jbbbrainblast` is unavailable or returns no result, say that explicitly.
+- Use `jbbbrainblast` for development workflow help, engineering context, internal docs, standards, architecture notes, repo processes, and delivery guidance.
+- Prefer `jbbbrainblast` over web search for company-internal development information.
+- Use it for implementation planning, codebase conventions, release/process questions, and engineering decision support.
+- If `jbbbrainblast` returns nothing useful, say that explicitly.
