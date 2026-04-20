@@ -23,6 +23,6 @@ This repository is for experimenting with Codex local workflows, GitHub integrat
 - Prefer simple solutions over new dependencies
 
 ## MCP Usage
-- Use the `workkb` MCP server for internal Azure DevOps, work-item, ticketing, process, and knowledge-base questions.
-- Prefer `workkb` over web search for company-internal information.
-- If `workkb` is unavailable or returns no result, say that explicitly.
+- Use the `jbbbrainblast` MCP server for internal Azure DevOps, work-item, ticketing, process, and knowledge-base questions.
+- Prefer `jbbbrainbvlast` over web search for company-internal information.
+- If `jbbbrainblast` is unavailable or returns no result, say that explicitly.
