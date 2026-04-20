@@ -11,18 +11,3 @@ description = "Codex + GitHub + Azure DevOps MCP experiment"
 
 [mcp_servers.workkb]
 url = "https://simpler-mcp.azurewebsites.net"
-
-[environment]
-shell = "powershell"
-
-[actions.explain_repo]
-command = "git status"
-
-[actions.show_branches]
-command = "git branch -a"
-
-[actions.sync]
-command = "git fetch --all --prune"
-
-[actions.last_commits]
-command = "git log --oneline -5"
