@@ -1,19 +1,23 @@
 # AGENTS.md
 
 ## Project Overview
-Short description of your repo
+This repository is for experimenting with Codex local workflows, GitHub integration, and VS Code-based development.
 
 ## Tech Stack
-- Node.js
-- React
-- etc.
+- Git
+- GitHub
+- VS Code
+- [add your real stack here: Node.js / React / Python / .NET]
 
 ## Commands
-- Install: npm install
-- Run: npm start
-- Test: npm test
+- Install: [fill in]
+- Run: [fill in]
+- Test: [fill in]
+- Lint: [fill in]
 
 ## Rules
-- Use TypeScript
-- Follow existing patterns
-- Do not modify config without asking
+- Keep changes small and focused
+- Follow existing file and naming patterns
+- Ask before changing build or deployment config
+- Update README when setup steps change
+- Prefer simple solutions over new dependencies
